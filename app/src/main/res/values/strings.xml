@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">کوتاه کن</string>
+    <string name="short_link_with_speed">با سرعت لینکت رو کوتاه کن</string>
+    <string name="loading">منتظر بمانید …</string>
+    <string name="main_link">لینک اصلی</string>
+    <string name="short_link">لینک کوتاه</string>
+    <string name="main_link_copied">لینک اصلی کپی شد</string>
+    <string name="short_link_copied">لینک کوتاه کپی شد</string>
+    <string name="delete_this_link">آیا قصد به حذف این لینک دارید ؟</string>
+    <string name="no">نه</string>
+    <string name="yes">بله</string>
+    <string name="goole_url">http://google.com</string>
+    <string name="history">تاریخچه</string>
+    <string name="insert_link">لینک خود را با http یا https وارد نمایید</string>
+    <string name="report_1">مشکلی در وبسرویس‌های کوتاه کننده به وجود آمده ، می‌توانید این موضوع را گزارش دهید</string>
+    <string name="net_err">درخواست با ارور errorCode پاسخ داده شد ، می‌توانید این موضوع را گزارش دهید</string>
+    <string name="net_excep">درخواست با خطای excep همراه شد ، می‌توانید این موضوع را گزارش دهید</string>
+    <string name="delete_success">لینک با موفقیت حذف شد</string>
+    <string name="delete_history">حذف تاریخچه</string>
+    <string name="delete_all_link">آیا قصد به حذف همه لینک‌ها دارید ؟</string>
+    <string name="report_bugs">گزارش باگ</string>
+    <string name="ins_complete">لینک را کامل وارد نمایید</string>
+    <string name="Hemayat">حمایت از ما</string>
+    <string name="tnx">با تشکر از شما :)</string>
+    <string name="about_me">درباره ما</string>
+    <string name="developer_name">امیربهادر امیری</string>
+    <string name="developer_gmail">bahadoramiri.report@gmail.com</string>
+    <string name="show_video_tab">تماشای تبلیغ ویدیویی برای حمایت از ما</string>
+    <string name="show">تماشا</string>
+</resources>

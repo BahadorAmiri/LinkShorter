@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--      Standard Color      -->
+    <color name="black">#000</color>
+    <color name="blue">#00f</color>
+    <color name="lblue">#0ff</color>
+    <color name="white">#fff</color>
+    <color name="yellow">#ff0</color>
+    <color name="red">#f00</color>
+    <color name="purple">#f0f</color>
+    <color name="lgreen">#0f0</color>
+    <color name="dark">#323232</color>
+    <color name="dark2">#646464</color>
+    <color name="dark3">#2B2B2B</color>
+    <color name="ldark">#ddd</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!--       Custom Color       -->
+    <color name="custom_red1">#FFCCBC</color>
+    <color name="custom_lblue1">#B2EBF2</color>
+    <color name="custom_blue1">#C5CAE9</color>
+    <color name="custom_lblue2">#80DEEA</color>
+    <color name="custom_orange1">#FFAB91</color>
+    <color name="custom_green1">#A5D6A7</color>
+    <color name="custom_dred1">#F48FB1</color>
+    <color name="custom_yellow1">#FFF59D</color>
+    <color name="custom_lblue3">#26C6DA</color>
+    <color name="custom_orange2">#FF7043</color>
+    <color name="custom_yellow2">#FFCA28</color>
+    <color name="custom_green2">#9CCC65</color>
+    <color name="custom_dgreen2">#26A69A</color>
+    <color name="custom_dred2">#EC407A</color>
+    <color name="custom_purple1">#AB47BC</color>
+    <color name="custom_purple2">#8F379E</color>
+    <color name="custom_dblue">#7E57C2</color>
+    <color name="custom_dblue2">#5C6BC0</color>
+    <color name="custom_dgreen1">#7CB342</color>
+    <color name="custom_dred3">#E53935</color>
+    <color name="custom_dgreen3">#00897B</color>
+    <color name="custom_yellow3">#FDD835</color>
+    <color name="custom_top_red">#F82670</color>
+    <color name="custom_top_blue">#5EFB9D</color>
+
+</resources>

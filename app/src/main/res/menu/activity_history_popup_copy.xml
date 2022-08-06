@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/activity_history_popup_copy_main_link"
+        android:title="@string/main_link" />
+
+    <item android:id="@+id/activity_history_popup_copy_short_link"
+        android:title="@string/short_link" />
+
+</menu>

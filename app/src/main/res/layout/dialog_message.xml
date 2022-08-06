@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Copyright (c) 2021
+  ~  Dev : Amir Bahador , Amiri
+  ~  City : Iran / Abadan
+  ~  time & date : 7/17/21 3:34 PM
+  ~  email : abadan918@gmail.com
+  -->
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="@color/white"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/messageBox"
+        android:gravity="center"
+        android:layout_margin="16dp"
+        android:textSize="18sp"
+        android:textColor="@color/dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</androidx.cardview.widget.CardView>

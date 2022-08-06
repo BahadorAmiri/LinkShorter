@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="Theme.LinkShort" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/custom_dblue2</item>
+        <item name="colorPrimaryDark">@color/custom_dblue2</item>
+        <item name="colorAccent">@color/custom_dblue2</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:layoutDirection">rtl</item>
+    </style>
+
+    <style name="Theme.LinkShort.Fullscreen" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@color/custom_dblue2</item>
+        <item name="colorPrimaryDark">@color/custom_dblue2</item>
+        <item name="colorAccent">@color/custom_dblue2</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:layoutDirection">rtl</item>
+    </style>
+
+</resources>
